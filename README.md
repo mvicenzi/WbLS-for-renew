@@ -19,7 +19,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ``` 
 
-The input data files will be made available in a Google Drive folder. You can copy it them to your Google Drive to access them via Colab.
+The input data files will be made available in a Google Drive folder.
 
 ## Links
 * Timetable Week 1: https://indico.cern.ch/event/1301247/
